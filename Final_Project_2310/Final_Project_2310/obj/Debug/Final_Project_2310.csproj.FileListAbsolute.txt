@@ -1,0 +1,13 @@
+C:\Users\Philip\source\repos\Final_Project_2310\Final_Project_2310\bin\Debug\Final_Project_2310.exe.config
+C:\Users\Philip\source\repos\Final_Project_2310\Final_Project_2310\bin\Debug\Final_Project_2310.exe
+C:\Users\Philip\source\repos\Final_Project_2310\Final_Project_2310\bin\Debug\Final_Project_2310.pdb
+C:\Users\Philip\source\repos\Final_Project_2310\Final_Project_2310\obj\Debug\Final_Project_2310.csprojAssemblyReference.cache
+C:\Users\Philip\source\repos\Final_Project_2310\Final_Project_2310\obj\Debug\Final_Project_2310.exe
+C:\Users\Philip\source\repos\Final_Project_2310\Final_Project_2310\obj\Debug\Final_Project_2310.pdb
+C:\Users\880573344\source\repos\Final_Project_2310\Final_Project_2310\bin\Debug\Final_Project_2310.exe.config
+C:\Users\880573344\source\repos\Final_Project_2310\Final_Project_2310\bin\Debug\Final_Project_2310.exe
+C:\Users\880573344\source\repos\Final_Project_2310\Final_Project_2310\bin\Debug\Final_Project_2310.pdb
+C:\Users\880573344\source\repos\Final_Project_2310\Final_Project_2310\obj\Debug\Final_Project_2310.csprojAssemblyReference.cache
+C:\Users\880573344\source\repos\Final_Project_2310\Final_Project_2310\obj\Debug\Final_Project_2310.exe
+C:\Users\880573344\source\repos\Final_Project_2310\Final_Project_2310\obj\Debug\Final_Project_2310.pdb
+C:\Users\880573344\source\repos\Final_Project_2310\Final_Project_2310\obj\Debug\Final_Project_2310.csproj.CoreCompileInputs.cache
